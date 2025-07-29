@@ -1,0 +1,9 @@
+student profile
+userDetails
+edit user
+edit studnet
+
+result
+super admin in backend
+private route
+
